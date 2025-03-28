@@ -28,8 +28,8 @@
 Для начала необходимо клонировать репозиторий на свой локальный компьютер:
 
 ```bash
-git clone https://github.com/your-username/token-management-system.git
-cd token-management-system
+git clone https://github.com/KiAtsushi-Git/TokenAuthentication
+cd TokenAuthentication
 ```
 
 ### 2. Установка зависимостей
